@@ -1,1 +1,1 @@
-Complete Git guide
+Пройти курс по работе с Git
